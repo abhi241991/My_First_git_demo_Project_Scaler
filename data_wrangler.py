@@ -1,2 +1,3 @@
 ﻿def sample:
-    return B
+    return A
+
