@@ -1,2 +1,2 @@
 ﻿def sample:
-    return none
+    return B
